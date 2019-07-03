@@ -1,0 +1,16 @@
+Graphic
+
+- Background (Beranda, StoryBoard, Background Game, Background Tutorial)
+- Object yang bisa dipencet
+    - Back (di setiap scene)
+    - Beranda (story, mini, training, navigasi samping)
+    - Card Minigames
+    - Operasi Dasar Matematika (Angka dan sebagainya)
+    - Menu Tutorial
+    - Sound
+    - Lubang Tanah
+    - Submit Button
+
+
+- Object Hiasan
+    - 

@@ -89,6 +89,13 @@ export default function Programming() {
             <ListItemIcon>
 
             </ListItemIcon>
+            <Avatar alt="Remy Sharp" src="https://icon2.kisspng.com/20180417/irq/kisspng-firebase-cloud-messaging-computer-icons-google-clo-github-5ad5d3cde70706.9853526815239628299463.jpg" className={classes.bigAvatar} />
+            <ListItemText secondary="Firebase"/>
+          </ListItem>
+          <ListItem button className={classes.nested}>
+            <ListItemIcon>
+
+            </ListItemIcon>
             <Avatar alt="Remy Sharp" src="https://juststickers.in/wp-content/uploads/2019/01/flutter.png" className={classes.bigAvatar} />
             
             <ListItemText secondary="Flutter"/>

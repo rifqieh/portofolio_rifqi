@@ -44,7 +44,7 @@ export default function Achievement() {
         <ListItemIcon>
           <Phone color="primary"/>
         </ListItemIcon>
-        <ListItemText primary="+62 8223 7666676" />
+        <ListItemText primary="+62 8223 76666 76" />
       </ListItem>
       <ListItem button onClick={handleClick}>
         <ListItemIcon>
@@ -80,12 +80,7 @@ export default function Achievement() {
             </ListItemIcon>
             <ListItemText secondary="(2016 - 2018) SMA Negeri 2 Purwokerto"/>
           </ListItem>
-          <ListItem button className={classes.nested}>
-            <ListItemIcon>
-
-            </ListItemIcon>
-            <ListItemText secondary="(2018 - 20**) Universitas Sebelas Maret"/>
-          </ListItem>
+          
         </List>
       </Collapse>
     </List>

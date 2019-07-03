@@ -15,8 +15,8 @@ import ListItem from '@material-ui/core/ListItem'
 
 const useStyles = makeStyles({
   card: {
-    maxWidth: 750,
-    minWidth: 380
+    maxWidth: 400,
+    minWidth: 400
   },
   media: {
     height: 140,
